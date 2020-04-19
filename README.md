@@ -7,5 +7,5 @@ https://localhost:44324/swagger/index.html   - (I guess the port(44324) may chan
 Once you are in Swagger UI, 
   1. click on "POST"
   2. click on "Try it out"
-  3. In the respose body, replace "string" with the location that you want to sort.
+  3. In the request body, replace "string" with the location that you want to sort.
       Ex: "E:\\Other\\Test"  (Use two slashes in the address - \\ - instead of one).
