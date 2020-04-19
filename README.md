@@ -1,4 +1,4 @@
-# jf-filessorter-app
+# jf-filessorter-service
 Moves files to respective folders based on their extension. 
 
 Run the service and go to:
