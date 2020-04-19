@@ -13,7 +13,7 @@ namespace FileSorterService.Controllers
     {
         // POST: api/Sort
         [HttpPost]
-        public IActionResult Post([FromBody] string path)
+        public IActionResult Sort([FromBody] string path)
         {
             try
             {
